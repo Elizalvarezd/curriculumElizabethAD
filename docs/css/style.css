@@ -22,13 +22,13 @@ header img {
 }
 
 header a{
-        color: #fff;
+        color: blue;
         font-weight: bold;
         font-size: 22px;
 }
 
 header a:hover{
-    color: blue;
+    color: green;
 }
 
 h1, h2{
